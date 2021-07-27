@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="vnLab + Gatsby = <3">
 </p>
 
-<br/>
-
 ## Table of contents
 
 - [What is PaaW?](#paaw)
