@@ -13,4 +13,4 @@
 
 ## What is PaaW?
 
-PaaW is a short for **Publication as a Website**, a concept drafted at vnLab in search of alternaitives to very restricting ebook formats. It is a way of thinking about online publications in a web-first manner.
+PaaW is short for **Publication as a Website**, a concept drafted at vnLab in search of alternaitives to very restricting ebook formats. It is a way of thinking about online publications in a web-first manner.
