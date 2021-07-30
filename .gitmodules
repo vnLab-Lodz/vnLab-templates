@@ -2,3 +2,7 @@
 	path = starters/gatsby-starter-paaw-basic
 	url = git@github.com:vnLab-Lodz/gatsby-starter-paaw-basic.git
 	branch = main
+[submodule "starters/gatsby-starter-paaw-i18n"]
+	path = starters/gatsby-starter-paaw-i18n
+	url = https://github.com/vnLab-Lodz/gatsby-starter-paaw-i18n
+	branch = main
