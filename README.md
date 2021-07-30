@@ -48,11 +48,11 @@ This repository contains a set of Gatsby starters compiled by vnLab to ease the 
 
 ### Basic starter
 
-Provides support for simpler single language publications. See more [here](https://github.com/vnLab-Lodz/gatsby-starter-paaw-basic).
+Provides support for simpler single language publications. View [repo](https://github.com/vnLab-Lodz/gatsby-starter-paaw-basic) or see it in action [here](https://vnlab-lodz.github.io/gatsby-starter-paaw-basic/).
 
 <a id="starters_i18n" ></a>
 
 ### Multilingual (i18n) starter
 
-Provides support for multilingual publications. See more [here](https://github.com/vnLab-Lodz/gatsby-starter-paaw-i18n).
+Provides support for multilingual publications. View [repo](https://github.com/vnLab-Lodz/gatsby-starter-paaw-i18n) or see it in action [here](https://vnlab-lodz.github.io/gatsby-starter-paaw-i18n/).
 
