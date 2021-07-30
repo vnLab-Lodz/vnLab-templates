@@ -9,7 +9,7 @@
   - [How it works?](#paaw_how)
 - [Starters](#starters)
   - [Basic starter](#starters_basic)
-  - Internationalized starter
+  - [Multilingual starter](#starters_i18n)
 
 <a id="paaw" ></a>
 
@@ -48,7 +48,11 @@ This repository contains a set of Gatsby starters compiled by vnLab to ease the 
 
 ### Basic starter
 
-Provides support for simpler single language publications. 
+Provides support for simpler single language publications. See more [here](https://github.com/vnLab-Lodz/gatsby-starter-paaw-basic).
 
+<a id="starters_i18n" ></a>
 
+### Multilingual (i18n) starter
+
+Provides support for multilingual publications. See more [here](https://github.com/vnLab-Lodz/gatsby-starter-paaw-i18n).
 
